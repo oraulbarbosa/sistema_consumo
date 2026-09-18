@@ -41,7 +41,7 @@ Este programa em Python ajuda você a:
     ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd sistema_desconto
+   cd sistema_consumo
    ```
 3. Execute o programa:
    ```bash
@@ -60,57 +60,57 @@ Este programa em Python ajuda você a:
 
 ## 🏪 Exemplo 01
 
-**Entrada:**
-Digite o tipo de imóvel: Comercial
-Digite o consumo mensal de água (m³): 15
+**Entrada:**</br>
+Digite o tipo de imóvel: Comercial </br>
+Digite o consumo mensal de água (m³): 15 </br>
 
-**Saída:**
-Tarifa comercial aplicada – consulte o plano corporativo.
+**Saída:**</br>
+Tarifa comercial aplicada – consulte o plano corporativo.</br>
 
 ## 🏢 Exemplo 02
 
-**Entrada:**
-Digite o tipo de imóvel: Apartamento
-Digite o consumo mensal de água (m³): 8
+**Entrada:**</br>
+Digite o tipo de imóvel: Apartamento</br>
+Digite o consumo mensal de água (m³): 8</br>
 
-**Saída:**
-Consumo econômico – excelente controle de água!
+**Saída:**</br>
+Consumo econômico – excelente controle de água!</br>
 
 ## 🏢 Exemplo 03
 
-**Entrada:**
-Digite o tipo de imóvel: Apartamento
-Digite o consumo mensal de água (m³): 22
+**Entrada:**</br>
+Digite o tipo de imóvel: Apartamento</br>
+Digite o consumo mensal de água (m³): 22</br>
 
-**Saída:**
-Consumo moderado – dentro do padrão residencial.
+**Saída:**</br>
+Consumo moderado – dentro do padrão residencial.</br>
 
 ## 🏠 Exemplo 04
 
-**Entrada:**
-Digite o tipo de imóvel: Casa
-Digite o consumo mensal de água (m³): 23
+**Entrada:**</br>
+Digite o tipo de imóvel: Casa</br>
+Digite o consumo mensal de água (m³): 23</br>
 
-**Saída:**
-Consumo moderado – dentro do padrão residencial.
+**Saída:**</br>
+Consumo moderado – dentro do padrão residencial.</br>
 
 ## 🏠 Exemplo 05
 
-**Entrada:**
-Digite o tipo de imóvel: Casa
-Digite o consumo mensal de água (m³): 26
+**Entrada:**</br>
+Digite o tipo de imóvel: Casa</br>
+Digite o consumo mensal de água (m³): 26</br>
 
-**Saída:**
-Consumo excessivo – adote medidas de economia e verifique vazamentos.
+**Saída:**</br>
+Consumo excessivo – adote medidas de economia e verifique vazamentos.</br>
 
 ## 🏢 Exemplo 06
 
-**Entrada:**
-Digite o tipo de imóvel: Apartamento
-Digite o consumo mensal de água (m³): 27
+**Entrada:**</br>
+Digite o tipo de imóvel: Apartamento</br>
+Digite o consumo mensal de água (m³): 27</br>
 
-**Saída:**
-Consumo excessivo – adote medidas de economia e verifique vazamentos.
+**Saída:**</br>
+Consumo excessivo – adote medidas de economia e verifique vazamentos.</br>
 
 ## 👤 Autor
 
