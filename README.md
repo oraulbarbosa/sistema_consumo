@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner/Banner_Saneamento.png" alt="Banner Saneamento" width="1200" height="450">
+  <img src="banner/Banner_Saneamento.png" alt="Banner Saneamento" width="1200" height="600">
 </p>
 
 # 🚰 Sistema de Consumo de Água
